@@ -80,7 +80,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmeen2812&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeen2812&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ahmeen2812&theme=tokyonight" />
 </p>
 
 ---
