@@ -1,124 +1,125 @@
 <h1 align="center">Hi 👋, I'm Ahmed Touqeer</h1>
-<h3 align="center">AI Software Engineer | Full Stack Developer | Automation Specialist</h3>
+<h3 align="center">🚀 AI Software Engineer | Full Stack Developer | Automation Specialist</h3>
 
 <p align="center">
-  🚀 Building AI-powered systems, intelligent automations, and scalable web applications
+Building intelligent systems, scalable web applications, and AI-powered automations that solve real-world problems.
 </p>
 
 ---
 
 ## 🧠 About Me
-
-- 💡 AI Software Engineer specializing in **AI integrations & automation systems**
-- ⚙️ Passionate about building **intelligent workflows and AI-driven products**
-- 🌐 Developing **UI/UX-focused, cloud-ready web applications**
-- 🧩 Strong experience in **Full Stack Development (MERN + beyond)**
-- 🏢 4+ years of professional experience at *Addin Expert*
-
----
-
-## 🤝 I’m Open To
-
-- Collaborating on **AI SaaS products & automation tools**
-- Working on **AI integrations for businesses**
-- Building **scalable full-stack applications**
+- 🔭 I’m currently working on **AI-driven software & intelligent automation systems**
+- 🤝 I’m looking to collaborate on **AI products, SaaS platforms, and scalable web apps**
+- 🛠️ I specialize in **AI integrations, workflow automation, and full-stack development**
+- 🌱 Currently exploring **advanced AI systems, cloud-native architectures & distributed computing**
+- 💬 Ask me about **AI automation, MERN stack, FastAPI, or scalable system design**
+- ⚡ Fun fact: I turn complex problems into **automated intelligent solutions**
 
 ---
 
-## 🔥 What I Build
+## 🚀 Tech Stack
 
-- 🤖 AI Automation Systems (task bots, workflow engines)
-- 📈 AI-powered tools (Google Trends analyzers, data-driven apps)
-- 🖼️ Image Processing (Low-resolution ➝ 4K enhancement locally)
-- 🌍 Web Applications (fast, responsive, scalable)
-- 🧠 AI-integrated business solutions
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+### 🌐 Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🚀 AI & Backend
-- Python | FastAPI | Node.js | Express.js | PHP
-- AI Integrations | Automation Systems | APIs
+---
 
-### 🌐 Frontend
-- HTML | CSS | JavaScript | TypeScript
-- React.js | Bootstrap | Tailwind CSS | jQuery
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### 🗄️ Database & Cloud
-- MongoDB | SQL
-- Cloud-ready architectures
+---
 
-### ⚡ Tools & Platforms
-- Electron.js
-- Google Workspace | Apps Script | Google Add-ons
-- Microsoft Word Add-ins
+### 🧩 Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+### 🤖 AI & Automation
+- AI-powered web applications
+- Intelligent workflow automation systems
+- Google Workspace & Apps Script automation
+- AI integrations for SaaS platforms
+- Data-driven decision systems
+
 ---
 
 ## 💼 Experience
+**AI & Full Stack Developer — Addin Expert (4+ Years)**  
+- Developed scalable AI-powered web applications and SaaS solutions  
+- Built automation systems reducing manual workload by up to **70%+**  
+- Delivered custom Google Workspace & Word Add-ins for enterprise clients  
+- Integrated AI models into production-level applications  
+- Led performance optimization and system architecture improvements  
 
-**Software Engineer @ Addin Expert (4+ Years)**
+---
 
-- Developed **AI-powered automation tools** improving workflow efficiency
-- Built **custom add-ins & integrations** for enterprise clients
-- Delivered **scalable web applications** with modern tech stacks
-- Optimized systems for **performance, usability, and reliability**
+## 🎓 Education
+**Bachelor of Science in Information Technology (BS-IT)**  
+Riphah International University, Lahore  
+
+---
+
+## 🧪 Featured Projects
+- 🔍 **AI Google Trends Analyzer** – Intelligent trend prediction system  
+- 🖼️ **AI Image Upscaler (Local)** – Converts low-resolution images to 4K using AI  
+- 🤖 **AI Task Automation Engine** – Automates repetitive workflows using AI logic  
+- 🌐 **AI-Powered Web Platforms** – Smart, scalable, cloud-ready applications  
 
 ---
 
 ## 🏆 Achievements
-
-- 🚀 Delivered multiple **AI-based automation solutions** for real-world businesses  
-- 🧠 Designed **intelligent systems reducing manual workload significantly**  
-- ⚡ Built high-performance applications with **clean UI/UX focus**  
-- 🔧 Specialized in **cross-platform integrations (Google + Microsoft ecosystem)**  
-
----
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmeen2812&theme=tokyonight&cache_seconds=1800" />
-</p>
-
- 
----
-
-## 🌱 Currently Focused On
-
-- Advanced **AI automation systems**
-- Scaling **AI-powered SaaS products**
-- Improving **system design & architecture**
+- 🚀 Delivered multiple **enterprise-level automation systems**
+- 🧠 Recognized for **AI integration expertise in production systems**
+- ⚡ Improved system efficiency and performance across multiple projects
+- 🛠️ Built **cross-platform add-ins** used by professional teams
 
 ---
 
-## 💬 Ask Me About
-
-- AI integrations & automation  
-- Full-stack development  
-- Building SaaS products  
-- Performance optimization  
-
----
-
-## ⚡ Fun Fact
-
-I turn complex problems into **smart automated solutions powered by AI** 🚀
-
----
-
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-touqeer-4105503a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Touqeer-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:agmadtouqeer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeen2812&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeen2812&theme=radical" />
 </p>
 
 ---
 
-## 🧭 Vision
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-touqeer-4105503a7" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Touqeer-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-> To become a leading AI engineer building impactful, scalable, and intelligent software solutions that solve real-world problems.
+📧 Email: **agmadtouqeer@gmail.com**
+
+---
+
+## 🧩 Philosophy
+> “I don’t just build software — I engineer intelligent systems that automate, scale, and evolve.”
+
+---
