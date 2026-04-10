@@ -148,8 +148,7 @@ Riphah International University, Lahore
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeen2812&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeen2812&theme=tokyonight&hide_border=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeen2812&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
