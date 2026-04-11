@@ -92,6 +92,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 ### ⚡ Additional Technologies
 `Electron.js`  
 `Apache Spark`  
+`Google Workspace add-ons`
 `Google Workspace APIs`
 
 ---
