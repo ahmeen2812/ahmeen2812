@@ -25,7 +25,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 
 💡 I focus on **building systems that reduce cost, automate workflows, and generate real business value.**
 
----
+--- 
 
 ## 💼 What I Do (For Clients & Companies)
 
