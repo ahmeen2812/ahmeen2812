@@ -2,7 +2,7 @@
 <h3 align="center">AI Software Engineer | Full Stack Architect | Automation Specialist</h3>
 
 <p align="center">
-  <b>Building intelligent, scalable, and revenue-generating software using AI & modern web technologies.</b>
+  <b>Building intelligent, scalable, and revenue-generating software using AI & modern web technologies. </b>
 </p>
 
 <p align="center">
