@@ -5,7 +5,7 @@
   <b>Building intelligent, scalable, and revenue-generating software using AI & modern web technologies. </b>
 </p>
 
-<p align="center"> 
+<p align="center">  
   <a href="https://www.linkedin.com/in/ahmed-touqeer-4105503a7">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Touqeer-blue?style=for-the-badge&logo=linkedin"/>
   </a>
