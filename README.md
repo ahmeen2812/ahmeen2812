@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ahmed-touqeer-4105503a7">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Touqeer-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmeen2812&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ahmeen2812&label=Profile%20Views&color=blueviolet&s tyle=for-the-badge" />
 </p>
 
 ---
