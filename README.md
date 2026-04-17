@@ -67,7 +67,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 `Firebase`  
 `Supabase`
  
----
+--- 
 
 ### ☁️ DevOps, Servers & Tools
 `Apache` `Nginx`  
