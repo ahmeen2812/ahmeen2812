@@ -50,7 +50,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 `jQuery` `React.js` `Next.js`  
 `Angular` `AngularJS`  
 `MUI`
- 
+  
 ---
 
 ### ⚙️ Backend & Frameworks
