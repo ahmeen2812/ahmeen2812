@@ -82,7 +82,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 - Intelligent automation systems  
 - AI SaaS architecture  
 - Workflow automation engines  
-- Google Workspace automation  
+- Google Workspace automation   
 - Word Add-ins & Google Add-ons  
 - Apps Script automation  
 - AI integrations for business systems  
