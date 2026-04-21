@@ -43,7 +43,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 `Python` `JavaScript` `TypeScript` `PHP` `SQL`  
 `C` `C++` `C#` `Assembly` `Ruby`
 
----
+--- 
 
 ### 🌐 Frontend Technologies
 `HTML` `CSS` `Bootstrap` `Tailwind CSS`  
