@@ -59,7 +59,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 `FastAPI` `Flask`  
 `JWT Authentication`
 
----
+--- 
 
 ### 🗄️ Databases & Data Systems
 `MongoDB`  
