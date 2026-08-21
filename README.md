@@ -173,7 +173,7 @@ Riphah International University, Lahore
 
 ## ⚡ Personal Philosophy
 
-> “Modern software should not just function — it should think, automate, and scale.”
+ “Modern software should not just function — it should think, automate, and scale.”
 
 ---
 
