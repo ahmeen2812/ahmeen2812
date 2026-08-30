@@ -65,7 +65,7 @@ I am an **AI Software Engineer & Full Stack Developer** specializing in:
 `MongoDB`  
 `SQL Databases`  
 `Firebase`  
-`Supabase`
+`Supabase` 
  
 --- 
 
