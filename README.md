@@ -158,7 +158,7 @@ Riphah International University, Lahore
 
 ## 📬 Contact
 
-📧 Email: **agmadtouqeer@gmail.com**  
+📧 Email: **agmadtouqeer@gmail.com**   
 🌐 LinkedIn: https://www.linkedin.com/in/ahmed-touqeer-4105503a7  
 
 ---
